@@ -45,8 +45,7 @@ Logistic Regression | Doc2vec (DM)  | 0.90
 #### The project is created with:
 
 * Python 3.9
-* libraries: NLTK, gensim, Keras, TensorFlow, scikit-learn, pandas, numpy, seaborn, pyLDAvis.
-
+* libraries: NLTK, gensim, Keras, TensorFlow, scikit-learn, pandas, numpy, seaborn.
 #### Running the project:
 
 use Jupyter Notebook or Google Colab.
